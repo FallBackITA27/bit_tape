@@ -2,6 +2,8 @@
 name = "bit_tape"
 version = "1.0.0"
 edition = "2024"
+description = "Reader for bits as if they were on a tape."
+license-file = "LICENSE"
 
 [dependencies]
 thiserror = "2.0.18"
